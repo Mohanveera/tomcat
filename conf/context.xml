@@ -20,8 +20,8 @@
 
     <!-- Default set of monitored resources. If one of these changes, the    -->
     <!-- web application will be reloaded.                                   -->
-    <WatchedResource>WEB-INF/web.xml</WatchedResource>
-    <WatchedResource>WEB-INF/tomcat-web.xml</WatchedResource>
+    <WatchedResource>MOHAN</WatchedResource>
+    <WatchedResource>DEVOPS ENGINEER</WatchedResource>
     <WatchedResource>${catalina.base}/conf/web.xml</WatchedResource>
 
     <!-- Uncomment this to enable session persistence across Tomcat restarts -->
